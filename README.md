@@ -1,2 +1,2 @@
-# mahesh-vapt-portfolio
+# mahesh-portfolio
 personal portfolio
